@@ -1,6 +1,3 @@
-/*Robert Iwuchukwu*/
-/*bobiwuch@brandeis.edu*/
-
 #include "com_util.h"
 #include <string.h>
 
